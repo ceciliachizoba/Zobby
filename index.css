@@ -1,0 +1,142 @@
+
+body{
+    background-color:black;
+}
+ .container{
+    background-color: blue;
+    width: 800px;
+    height: 550px;
+    display: flex;
+    margin: auto;
+}
+.line{
+    float: left;
+    height: 300px;
+    width: 7px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+.box1{
+    margin-top: 200px;
+    width: 250px;
+    height: 300px;
+    margin-left: 30px;
+    float: right;
+    display: flex;
+    background-color: blue;
+}
+.box1 h2{
+    color: white;
+    background-color: blue;
+    font-weight: 900;
+    line-height: 80px;
+    font-size: 70px ;
+}
+.box2{
+    margin-top: 200px;
+    width: 350px;
+    height: 300px;
+    margin-left: 100px;
+    background-color: white;
+    border-radius: 6px;
+}
+.box2 h4{
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.input1{
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.input1 input{
+    padding: 13px 20px;
+    border-radius: 10px;
+    height: 20px;
+    width: 40px;
+}
+.input1 button{
+    height: 50px;
+    width: 80px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    margin-left: 15px;
+}
+/* body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(20, 20, 120);
+}
+.container{
+    height: 50vh;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 30px;
+}
+.text{
+    color: white;
+    width: 50%;
+    height: 100%;
+}
+.text h1{
+    padding-top: 30px;
+    height: 35vh;
+    font-size: 40px;
+    line-height: 70px;
+    padding-left: 15px;
+    border-left: 5px solid white;
+}
+.container-box{
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 40vh;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+.container-box .button{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    gap: 10px;
+}
+.button input, .button button{
+    height: 100%;
+    width: 50%;
+    border-radius: 5px;
+}
+.button button{
+    background-color: rgb(20, 20, 120);
+    color: white;
+    font-size: larger;
+    border: none;
+    outline: none;
+}
+.button input{
+    padding: 5px;
+} */
+
+
+
+
+
